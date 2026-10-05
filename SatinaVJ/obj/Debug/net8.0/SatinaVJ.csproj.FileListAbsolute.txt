@@ -1,0 +1,14 @@
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\bin\Debug\net8.0\SatinaVJ.exe
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\bin\Debug\net8.0\SatinaVJ.deps.json
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\bin\Debug\net8.0\SatinaVJ.runtimeconfig.json
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\bin\Debug\net8.0\SatinaVJ.dll
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\bin\Debug\net8.0\SatinaVJ.pdb
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\obj\Debug\net8.0\SatinaVJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\obj\Debug\net8.0\SatinaVJ.AssemblyInfoInputs.cache
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\obj\Debug\net8.0\SatinaVJ.AssemblyInfo.cs
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\obj\Debug\net8.0\SatinaVJ.csproj.CoreCompileInputs.cache
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\obj\Debug\net8.0\SatinaVJ.dll
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\obj\Debug\net8.0\refint\SatinaVJ.dll
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\obj\Debug\net8.0\SatinaVJ.pdb
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\obj\Debug\net8.0\SatinaVJ.genruntimeconfig.cache
+C:\Users\Vanjo Satina\Desktop\SatinaVJ\obj\Debug\net8.0\ref\SatinaVJ.dll
